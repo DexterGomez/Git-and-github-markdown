@@ -3,7 +3,22 @@
 ## The command line
 
 -create and delete directories
--navigate 
+
+*mkdir <name>* this command serve to create a foler
+
+*rmdir <name>* this command delete a empity folder
+
+*rm -rf <name>* delete a folder and the files inside
+
+-navigate
+
+*cd <name>* change to the directory writed
+
+*ls* show the contend of a directory
+
+*ls -l* show content and its details of a directory
+
+*ls -lr* i dont remmeber
 
 -compare 
 
