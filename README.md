@@ -4,21 +4,21 @@
 
 -create and delete directories
 
-*mkdir <name>* this command serve to create a foler
+**mkdir <name>** this command serve to create a foler
 
-*rmdir <name>* this command delete a empity folder
+**rmdir <name>** this command delete a empity folder
 
-*rm -rf <name>* delete a folder and the files inside
+**rm -rf <name>** delete a folder and the files inside
 
 -navigate
 
-*cd <name>* change to the directory writed
+**cd <name>** change to the directory writed
 
-*ls* show the contend of a directory
+**ls** show the contend of a directory
 
-*ls -l* show content and its details of a directory
+**ls -l** show content and its details of a directory
 
-*ls -lr* i dont remmeber
+**ls -lr** i dont remmeber
 
 -compare 
 
